@@ -8,19 +8,15 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, location, a profile picture and your interests. The information that we request will be retained by us and used as described in this privacy policy.  
+The information collected and provided by the user themselves in the onboarding stage is saved in our servers to allow for a better user experience and  is not shared with any third party providers.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+### fcm token  
+An FCM token, or Firebase Cloud Messaging token, is a unique identifier assigned to a mobile device or app instance by Firebase Cloud Messaging (FCM). FCM is a cloud-based messaging service provided by Google that allows developers to send notifications and messages to users on various platforms, including Android and iOS.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+When you first open the app we collect and save this token on the user's document level in order to send users allow users to receive notifications. However, as user you have the option to turn off these notifications. 
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
