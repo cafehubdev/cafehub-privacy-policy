@@ -33,6 +33,8 @@ We value your trust in providing us your Personal Information, thus we are striv
 ### Children’s Privacy  
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
+In addition, Cafehub does not tolerate any form of child sexual abuse or exploitation. We are committed to ensuring that our platform is a safe and respectful space for all users. Any behavior involving child sexual abuse or exploitation (CSAE) is strictly prohibited, and any content or activity related to such will be immediately removed upon detection or notification. We have implemented strong safeguards and reporting mechanisms to address and prevent CSAE in compliance with child safety laws and regulations. Users are encouraged to report any inappropriate content or behavior, and our team will take immediate action, including reporting to relevant authorities where necessary. Protecting the safety and well-being of children on our platform is of the utmost importance to us.
+
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
